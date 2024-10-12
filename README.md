@@ -23,7 +23,7 @@ The second method uses Python to install PIP without downloading or running any 
 </pre></header><pre><code class="hljs language-html"><span class="hljs-tag"><span class="hljs-name">python -m ensurepip --upgrade</code></pre></div>
 6))Wait for the installation to complete. Check that PIP is installed correctly with the following command:
 </pre></header><pre><code class="hljs language-html"><span class="hljs-tag"><span class="hljs-name">pip --version</code></pre></div>
-
+s
 # Installation
 Clone the repository:
 </pre></header><pre><code class="hljs language-html"><span class="hljs-tag"><span class="hljs-name">git clone https://github.com/4lph4shell/Blum_autocliker_bot.git </code></pre></div>
